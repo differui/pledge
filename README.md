@@ -1,7 +1,7 @@
 Pledge
 =====
 
-Imitate [DemoPromise](https://github.com/rauschma/demo_promise) a simple Promise like API implementation.
+This implementation imitate [DemoPromise](https://github.com/rauschma/demo_promise).
 
 ## Usage
 
